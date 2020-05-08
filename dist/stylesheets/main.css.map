@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/stylesheets/main.scss","webpack:///./src/javascripts/VueApp.vue"],"names":[],"mappings":"AAAA,KACE,eAAe,CADjB,QAGI,WAAY;;ACahB,mBACE,WAAY","file":"./stylesheets/main.css","sourcesContent":["body{\n  color:lightblue;\n  h1{\n    color: black;\n  }\n}\n","\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\np {\n  color: green;\n}\n"],"sourceRoot":""}
